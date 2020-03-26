@@ -1,0 +1,5 @@
+# Default ignored files
+/react-app-spring-boot.iws
+
+# Project exclude paths
+/node_modules/
